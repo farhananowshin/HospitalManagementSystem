@@ -54,23 +54,17 @@ gcc main.c -o hospital
 
 ## Screenshots
 
-### Appointment Scheduling Menu 1
-![Appointment Scheduling Menu 1](screenshots/AppointmentSchedulingMenu1.png)
+### Login Screen
+![Login Screen](screenshots/login.png)  
 
-### Appointment Scheduling Menu 2
-![Appointment Scheduling Menu 2](screenshots/AppointmentSchedulingMenu2.png)
+### Main Menu
+![Main Menu](screenshots/MainMenu.png)
 
-### Billing Management Menu 1
-![Billing Management Menu 1](screenshots/BillingManagementMenu1.png)
+### Patient Management Menu 1
+![Patient Management Menu 1](screenshots/PatientManagementMenu1.png)
 
-### Billing Management Menu 2
-![Billing Management Menu 2](screenshots/BillingManagementMenu2.png)
-
-### Doctor Management Menu 1
-![Doctor Management Menu 1](screenshots/DoctorManagementMenu.png)
-
-### Doctor Management Menu 2
-![Doctor Management Menu 2](screenshots/DoctorManagementMenu2.png)
+### Patient Management Menu 2
+![Patient Management Menu 2](screenshots/PatientManagementMenu2.png)
 
 ### Emergency Service Menu 1
 ![Emergency Service Menu 1](screenshots/EmergencyServicesMenu1.png)
@@ -90,11 +84,23 @@ gcc main.c -o hospital
 ### Emergency Service Menu 6
 ![Emergency Service Menu 6](screenshots/EmergencyServiceMenu6.png)
 
-### Pharmacy Management Menu 1
-![Pharmacy Management Menu 1](screenshots/PharmacyManagementMenu.png)
+### Doctor Management Menu 1
+![Doctor Management Menu 1](screenshots/DoctorManagementMenu.png)
 
-### Pharmacy Management Menu 2
-![Pharmacy Management Menu 2](screenshots/PharmacyManagementMenu2.png)
+### Doctor Management Menu 2
+![Doctor Management Menu 2](screenshots/DoctorManagementMenu2.png)
+
+### Appointment Scheduling Menu 1
+![Appointment Scheduling Menu 1](screenshots/AppointmentSchedulingMenu1.png)
+
+### Appointment Scheduling Menu 2
+![Appointment Scheduling Menu 2](screenshots/AppointmentSchedulingMenu2.png)
+
+### Billing Management Menu 1
+![Billing Management Menu 1](screenshots/BillingManagementMenu1.png)
+
+### Billing Management Menu 2
+![Billing Management Menu 2](screenshots/BillingManagementMenu2.png)
 
 ### Staff Management System 1
 ![Staff Management System 1](screenshots/StaffManagementSystem1.png)
@@ -102,17 +108,12 @@ gcc main.c -o hospital
 ### Staff Management System 2
 ![Staff Management System 2](screenshots/StaffManagementSystem2.png)
 
-### Login Screen
-![Login Screen](screenshots/login.png)
+### Pharmacy Management Menu 1
+![Pharmacy Management Menu 1](screenshots/PharmacyManagementMenu.png)
 
-### Main Menu
-![Main Menu](screenshots/MainMenu.png)
+### Pharmacy Management Menu 2
+![Pharmacy Management Menu 2](screenshots/PharmacyManagementMenu2.png)
 
-### Patient Management Menu 1
-![Patient Management Menu 1](screenshots/PatientManagementMenu1.png)
-
-### Patient Management Menu 2
-![Patient Management Menu 2](screenshots/PatientManagementMenu2.png)
 
 ### Exit
 ![Exit](screenshots/Exit.png)
