@@ -113,3 +113,6 @@ gcc main.c -o hospital
 
 ### Patient Management Menu 2
 ![Patient Management Menu 2](screenshots/PatientManagementMenu2.png)
+
+### Exit
+![Exit](screenshots/Exit.png)
