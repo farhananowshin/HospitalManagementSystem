@@ -33,7 +33,7 @@ This project was developed as a practice tool for **structures, arrays, and menu
 
 Follow these steps to set up and run the Hospital Management System:
 
-### Step 1: Clone the Repository and Run the Project
+###  Clone the Repository and Run the Project
 Use the following commands in your terminal:
 
 ```bash
